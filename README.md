@@ -69,6 +69,7 @@ public class Contador{
         int contador = 0;
         while(contador <= 5){
             System.out.println("Contador: " + contador);
+            contador++;
         }
     }
 }
