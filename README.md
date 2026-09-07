@@ -55,7 +55,7 @@ método, os parâmetros certos a serem inseridos são: String[] args
 * Erro 2: A lógica do loop while está errado, tornando-o infinito, pois a variável de controle
 não é atualizada.
 
-* Erro 3: O código não coloca um : sinalizando o fim dessa instrução para que a compilação 
+* Erro 3: O código não coloca um ; sinalizando o fim dessa instrução para que a compilação 
 possa passar para a próxima, causando um erro de sintaxe.
 
 Código Corrigido:
