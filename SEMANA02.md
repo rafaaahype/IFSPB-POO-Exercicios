@@ -7,3 +7,7 @@ Questão 2:
 a) Título, Autor, Editora, Gêneros, Data de Publicação, Páginas, Quantidade de Cópias
 b) Porque essa classe seria um modelo (uma abstração) que serviria como base para instanciar outros livros a partir desses atributos base.
 c) Checar a disponibilidade (conferir se há alguma cópia na biblioteca disponível desse título para aluguel), Alugar e Devolução do livro.
+
+----
+
+As outras duas questões restantes estão no diretório src/
