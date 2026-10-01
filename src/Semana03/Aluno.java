@@ -24,7 +24,7 @@ public class Aluno {
     return false;
   }
 
-  //Cálculo de Média:
+  //Cálculo de Média
   public int calcularMedia(){
     return (notas[0]+notas[1]+notas[2]+notas[3]) / 4;
   }
